@@ -1,0 +1,105 @@
+========= PEMBAYARAN =========
+Nomor Kamar		: 3
+Jenis Kamar		: Suite
+Hari			: 10
+Nomor KTP		: 21533410
+Nama			: SincanMaulana
+Alamat			: Ponorogo
+Nomor Telepon	: 08515771899
+
+--------------------------------
+TOTAL TAGIHAN: 3000000 IDR / 10 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 1
+Jenis Kamar		: Single
+Hari			: 2
+Nomor KTP		: 27823782
+Nama			: AldiIndra
+Alamat			: Surabaya
+Nomor Telepon	: 08198329423
+
+--------------------------------
+TOTAL TAGIHAN: 350000 IDR / 2 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 3
+Jenis Kamar		: Suite
+Hari			: 10
+Nomor KTP		: 283749832
+Nama			: sincan
+Alamat			: ponorogo
+Nomor Telepon	: 0819823822
+
+--------------------------------
+TOTAL TAGIHAN: 3000000 IDR / 10 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 5
+Nomor KTP		: 232432
+Nama			: sincan
+Alamat			: ponorog
+Nomor Telepon	: 2343243
+
+--------------------------------
+TOTAL TAGIHAN: 1125000 IDR / 5 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 3
+Jenis Kamar		: Suite
+Hari			: 5
+Nomor KTP		: 8473298748
+Nama			: ihsanMaulana
+Alamat			: Ponrogoo
+Nomor Telepon	: 081989827982
+
+--------------------------------
+TOTAL TAGIHAN: 1500000 IDR / 5 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 1
+Nomor KTP		: 1111111111111
+Nama			: ilham
+Alamat			: bikini
+Nomor Telepon	: bottom
+
+--------------------------------
+TOTAL TAGIHAN: 225000 IDR / 1 hari
+
+--------------------------------
+===============================
+
+========= PEMBAYARAN =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 2
+Nomor KTP		: 21212121
+Nama			: REYHAN
+Alamat			: MOJOSEMBILAN
+Nomor Telepon	: 01212121
+
+--------------------------------
+TOTAL TAGIHAN: 450000 IDR / 2 hari
+
+--------------------------------
+===============================
+

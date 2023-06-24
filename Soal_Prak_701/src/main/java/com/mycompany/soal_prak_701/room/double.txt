@@ -1,0 +1,45 @@
+========= DOUBLE ROOM =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 5
+Nomor KTP		: 232432
+Nama			: sincan
+Alamat			: ponorog
+Nomor Telepon	: 2343243
+
+--------------------------------
+TOTAL TAGIHAN: 1125000 IDR / 5 hari
+
+--------------------------------
+===============================
+
+========= DOUBLE ROOM =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 1
+Nomor KTP		: 1111111111111
+Nama			: ilham
+Alamat			: bikini
+Nomor Telepon	: bottom
+
+--------------------------------
+TOTAL TAGIHAN: 225000 IDR / 1 hari
+
+--------------------------------
+===============================
+
+========= DOUBLE ROOM =========
+Nomor Kamar		: 2
+Jenis Kamar		: Double
+Hari			: 2
+Nomor KTP		: 21212121
+Nama			: REYHAN
+Alamat			: MOJOSEMBILAN
+Nomor Telepon	: 01212121
+
+--------------------------------
+TOTAL TAGIHAN: 450000 IDR / 2 hari
+
+--------------------------------
+===============================
+
